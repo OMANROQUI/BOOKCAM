@@ -1,0 +1,15 @@
+# Archivos de python compilados
+__pycache__/
+*.pyc
+
+# Variables de entorno y claves (SEGURIDAD)
+.env
+.venv
+env/
+
+# Carpetas de salida (para no subir tus apuntes personales)
+MisApuntes/
+notas/
+
+# Archivos del sistema
+.DS_Store
