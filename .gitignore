@@ -10,6 +10,7 @@ env/
 # Carpetas de salida (para no subir tus apuntes personales)
 MisApuntes/
 notas/
+fotos_prueba/
 
 # Archivos del sistema
 .DS_Store
